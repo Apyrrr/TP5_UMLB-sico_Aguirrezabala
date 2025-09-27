@@ -1,0 +1,4 @@
+dependenciaCreacion.Ej13_GeneradorQR
+dependenciaCreacion.CodigoQR
+dependenciaCreacion.GeneradorQR
+dependenciaCreacion.UsuarioQR

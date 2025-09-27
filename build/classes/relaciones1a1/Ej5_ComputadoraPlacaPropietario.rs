@@ -1,0 +1,4 @@
+relaciones1a1.Propietario
+relaciones1a1.Ej5_ComputadoraPlacaPropietario
+relaciones1a1.Computadora
+relaciones1a1.PlacaMadre
